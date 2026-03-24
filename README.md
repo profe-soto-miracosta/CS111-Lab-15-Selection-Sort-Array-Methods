@@ -2,19 +2,20 @@
 
 **Implement the Selection Sort Algorithm Using Array Methods**
 
-_Learning Objective: Demonstrate an understanding of creating static methods with arrays._
+## Learning Objectives
+- Demonstrate an understanding of creating static methods with arrays.
 
-### 
+### Background
 
 [How Selection Sort Works](https://www.youtube.com/watch?v=g-PGLbMth_g) (watch until 2:22)
 
 
-## Lab Prompt:
+## Program Description
 We often use the same methods over and over again. To make it easier to reuse these, we create utility classes which are a collection of useful methods centered around a common theme.  For example, `UtilityBelt` is a collection of useful methods for getting console input. 
 
 For this lab you will write useful methods inside the class ``ArrayMethods`` for int arrays.
 
-## Lab Instructions: 
+## Specifications
 
 ### Step 1: 
 We want to be able to view the contents of an array in a readable format. Create a static method ``arrayString()`` that takes an array of integers and will output a String of an array as a horizontal list, separated by commas and enclosed with curly brackets as shown here:
