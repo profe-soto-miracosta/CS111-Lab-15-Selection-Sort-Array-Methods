@@ -1,10 +1,7 @@
-/********************************************
-*	AUTHOR:	<name>
-* COLLABORATORS: <names>
-*	COURSE:	CS 111 Intro to CS I - Java
-*	LAST MODIFIED:	<date>
-********************************************/
-
+/**
+ * Your program description here
+ * @author Your name here
+ */
 public class Main 
 {
   public static void main(String[] args)
